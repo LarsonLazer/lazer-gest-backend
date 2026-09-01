@@ -1,0 +1,13 @@
+{
+  "name": "lazer-gest-backend",
+  "version": "1.0.0",
+  "description": "Backend do sistema Lazer Gest",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "dotenv": "^16.4.5"
+  }
+}
