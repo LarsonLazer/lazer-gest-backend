@@ -1,12 +1,13 @@
 {
   "name": "lazer-gest-backend",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Backend do sistema Lazer Gest",
   "type": "module",
   "scripts": {
     "dev": "vercel dev"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.57.4",
     "@vercel/postgres": "^0.10.0",
     "dotenv": "^16.4.5"
   }
